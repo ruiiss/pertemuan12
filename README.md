@@ -35,10 +35,9 @@ Aplikasi catatan personal dengan persistensi data lokal menggunakan AsyncStorage
 
 ## 📸 Screenshot
 
-1. ![dark](https://i.imgur.com/rmrwbqg.jpeg) — tampilan dark mode
-2. ![list](https://i.imgur.com/4sfn1qX.jpeg) — daftar item
-3. ![edit](http://i.imgur.com/GXEVST8.jpeg) — modal edit catatan
-4. ![search](https://i.imgur.com/6284lqY.jpeg) — fitur pencarian aktif
+| Dark Mode | Item List | Edit Note | Search |
+|---|---|---|
+| ![dark](https://i.imgur.com/rmrwbqg.jpeg) | ![list](https://i.imgur.com/4sfn1qX.jpeg) | ![edit](http://i.imgur.com/GXEVST8.jpeg) | ![search](https://i.imgur.com/6284lqY.jpeg) |
 
 ---
 
